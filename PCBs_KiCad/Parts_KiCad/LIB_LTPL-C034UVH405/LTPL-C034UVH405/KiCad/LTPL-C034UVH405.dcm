@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTPL-C034UVH405
+D Ultraviolet (UV) Emitter 405nm 3.7V 700mA 130 2-SMD, No Lead Exposed Pad
+K
+F https://optoelectronics.liteon.com/upload/download/DS23-2015-0073/LTPL-C034UVH405%20DataSheet.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+.A6211GLJTR-T :1 ;Led Driver 2A Buck
+SOIC127P600X170-9N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="TON" 3="EN" 4="CS" 5="VCC" 6="GND_1" 7="BOOT" 8="SW" 9="GND_2"
+*MXP 9
+*DFN A6211GLJTR-T
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (A6211GLJTR-T)
+~!Mouser Part Number (250-A6211GLJTR-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A6211GLJTR-T?qs=pUKx8fyJudB6ktKC8t53Sg%3D%3D)
+~!Arrow Part Number (A6211GLJTR-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/a6211gljtr-t/allegro-microsystems)
+~!Link Datasheet (https://www.allegromicro.com/~/media/Files/Datasheets/A6211-Datasheet.ashx)
+~!Height (1.7mm)
+~!3D_Model (A6211GLJTR-T)
+A6211GLJTR-T
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

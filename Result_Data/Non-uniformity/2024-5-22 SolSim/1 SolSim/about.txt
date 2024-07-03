@@ -1,0 +1,7 @@
+main meas is 12-40-35_15x15
+row y = 120 mm row is without diffusor plate on x = 0 - x = 70 mm
+
+additional meas is 13-10-59_15x1
+is corrected row y = 120 from main meas, with diffusor plate
+
+startup time of lamp more than 10 min (estimated)

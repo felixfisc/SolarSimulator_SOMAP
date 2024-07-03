@@ -1,0 +1,99 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SFH_4715A"
+   (description "Osram Opto SFH 4715A OSLON Black IR LED, 860nm, SMD package")
+   (family "DIO")
+   (package "SFH-4715A")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036946.pdf")
+   (attribute "Manufacturer_Name" "OSRAM")
+   (attribute "Manufacturer_Part_Number" "SFH 4715A")
+   (attribute "Mouser Part Number" "720-SFH4715A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4715A?qs=l%252B8wwRgLLS51XljZ5Pzqhw%3D%3D")
+   (attribute "Arrow Part Number" "SFH 4715A")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/sfh4715a/osram-opto-semiconductors?region=nac")
+   (gate
+    (symbol "SFH_4715A")
+    (pin "ANODE_1" 1 PS)
+    (pin "ANODE_2" 2 PS)
+    (pin "CATHODE" 3 PS)
+   )
+  )
+  (symbol "SFH_4715A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SFH-4715A"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -1.925 1.925)
+      (pt 1.925 1.925)
+      (pt 1.925 -1.925)
+      (pt -1.925 -1.925)
+      (pt -1.925 1.925))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -1.925 -1.925)
+      (pt 1.925 -1.925)
+      (pt 1.925 1.925)
+      (pt -1.925 1.925)
+      (pt -1.925 -1.925))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt 0.16414 -2.242) (pt 0.22186 -2.242)
+     )
+    )
+   )
+   (leg 1 (pt 0 -1.1) (padstack 0))
+   (leg 2 (pt 0 0) (padstack 2))
+   (leg 3 (pt 0 1.1) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.5 2.7 0 0 0))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 1 2.7 0 0 0))
+   )
+  )
+ )
+)

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SST-10-FR-B130-J730"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-09-29-11:28:50)
+    (mountForm default
+        (footprintRef "SST10FRB130J730")
+        (spec "System")
+    )
+)

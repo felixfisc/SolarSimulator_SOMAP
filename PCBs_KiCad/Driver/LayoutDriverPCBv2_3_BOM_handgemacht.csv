@@ -1,0 +1,33 @@
+Designator,Qnty,Comment,Cmp name,Footprint,Description,JLCPCB Part #
+"CBOOT1, CBOOT2, CBOOT3, CBOOT4, CBOOT5",5,0.1uF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,C14663 
+"CINa1, CINa2, CINa3, CINa4, CINa5",5,47uF,C_Polarized,Capacitor_SMD:CP_Elec_6.3x5.8,Polarized capacitor,C494853 
+"CINb1, CINb2, CINb3, CINb4, CINb5",5,4.7uF,C,Capacitor_SMD:C_1210_3225Metric,Unpolarized capacitor,C2974491 
+"CLED1, CLED2, CLED3, CLED4, CLED5",5,0.68uF,C,Capacitor_SMD:C_1210_3225Metric,Unpolarized capacitor,C711049 
+"CVCC1, CVCC2, CVCC3, CVCC4, CVCC5",5,0.1uF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,C14663 
+"D1, D2, D3, D4, D5",5,B250A-13-F,B250A-13-F,B250A-13-F:DIOM5226X230N,"Diodes Inc B250A-13-F, SMT Schottky Diode, 50V 2A, 2-Pin DO-214AC",C134443 
+H1,1,GND,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H4,1,LED1+,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H5,1,LED1-,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H6,1,LED3+,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H7,1,LED3-,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H8,1,LED5+,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H9,1,LED5-,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H14,1,LED2+,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H15,1,LED2-,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H16,1,LED4+,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+H17,1,LED4-,MountingHole_Pad,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,Mounting Hole with connection,
+"IC1, IC2, IC3, IC4, IC5",5,A6211GLJTR-T,A6211GLJTR-T,A6211GLJTR-T:SOIC127P600X170-9N,Led Driver 2A Buck,C150827 
+J1,1,43650-0500,43650-0500,Connector_Molex:Molex_Micro-Fit_3.0_43650-0500_1x05_P3.00mm_Horizontal,"Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 5 Circuits, with Snap-in Plastic Peg PCB Lock, Glow-Wire Capable, Black",C492351 
+J2,1,43650-0212,43650-0212,"43650-0212:43650-02_12,13,14_","Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 2 Circuits, with Solder Tab, Glow-Wire Capable, Black, Tape and Reel",C240839 
+J3,1,43650-0600,43650-0600,Connector_Molex:Molex_Micro-Fit_3.0_43650-0600_1x06_P3.00mm_Horizontal,"Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 6 Circuits, with Snap-in Plastic Peg PCB Lock, Glow-Wire Capable, Black",C492352 
+"L1, L2, L3, L4, L5",5,SRR1210-680M,SRR1210-680M,SRR1210-680M:SRR1210,"Power inductor SMD shielded 68uH 3A Bourns SRR1210 Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 68 uH +/-20% 3A Idc Q:12",C439396 
+RSense1a1,1,0.6,R,Resistor_SMD:R_1812_4532Metric,Resistor,C175961 
+RSense1b1,1,0.6,R,Resistor_SMD:R_1812_4532Metric,Resistor,C175961 
+RSense2a1,1,0.2,R,Resistor_SMD:R_0805_2012Metric,Resistor,C491242 
+RSense2b1,1,0.2,R,Resistor_SMD:R_0805_2012Metric,Resistor,C491242 
+RSense3,1,0.2,R,Resistor_SMD:R_0805_2012Metric,Resistor,C491242 
+RSense4a1,1,0.27,R,Resistor_SMD:R_0805_2012Metric,Resistor,C491231 
+RSense4b1,1,0.27,R,Resistor_SMD:R_0805_2012Metric,Resistor,C491231 
+RSense5a1,1,0.2,R,Resistor_SMD:R_0805_2012Metric,Resistor,C491242 
+RSense5b1,1,0.2,R,Resistor_SMD:R_0805_2012Metric,Resistor,C491242 
+"RTON1, RTON2, RTON3, RTON4, RTON5",5,75k,R,Resistor_SMD:R_0603_1608Metric,Resistor,C23242 

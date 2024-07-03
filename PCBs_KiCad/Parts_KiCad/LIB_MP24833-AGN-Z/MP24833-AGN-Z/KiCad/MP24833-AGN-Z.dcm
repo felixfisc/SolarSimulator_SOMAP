@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP24833-AGN-Z
+D LED Lighting Drivers 3A 200kHz Internal Power MOSFET
+K
+F https://www.monolithicpower.com/pub/media/document/MP24833-A_r1.01.pdf
+$ENDCMP
+#
+#End Doc Library

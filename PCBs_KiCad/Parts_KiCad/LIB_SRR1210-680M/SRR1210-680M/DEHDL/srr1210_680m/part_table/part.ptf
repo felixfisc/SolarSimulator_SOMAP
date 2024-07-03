@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRR1210_680M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Bourns", "SRR1210-680M" (!) = "", "SRR1210", "Other", "652-SRR1210-680M", "https://www.mouser.co.uk/ProductDetail/Bourns/SRR1210-680M?qs=4vvWAaIu%2Fq7jxuGAr15C2Q%3D%3D", "SRR1210-680M", "https://www.arrow.com/en/products/srr1210-680m/bourns", "Power inductor SMD shielded 68uH 3A Bourns SRR1210 Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 68 uH +/-20% 3A Idc Q:12", "https://www.bourns.com/pdfs/SRR1210.pdf"
+END_PART
+
+END.

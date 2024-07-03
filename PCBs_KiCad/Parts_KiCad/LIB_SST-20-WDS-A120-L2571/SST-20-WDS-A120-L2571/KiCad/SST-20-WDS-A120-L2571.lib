@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SST-20-WDS-A120-L2571
+#/5898565/310146/2.50/3/3/LED
+DEF SST-20-WDS-A120-L2571 LED 0 30 Y Y 1 F N
+F0 "LED" 650 300 50 H V L CNN
+F1 "SST-20-WDS-A120-L2571" 650 200 50 H V L CNN
+F2 "SST20WDSA120L2571" 650 100 50 H I L CNN
+F3 "https://download.luminus.com/datasheets/Luminus_SST-20-WxS_Datasheet.pdf" 650 0 50 H I L CNN
+F4 "High Power LEDs - White Daylight White LED 5700K 65 CRI" 650 -100 50 H I L CNN "Description"
+F5 "2.11" 650 -200 50 H I L CNN "Height"
+F6 "Luminus Devices Inc." 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SST-20-WDS-A120-L2571" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "896-20WDSA120L2571" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Luminus-Devices/SST-20-WDS-A120-L2571?qs=byeeYqUIh0ONPztS2sD8ag%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X K 1 0 -200 200 R 50 50 0 0 P
+X A 2 0 0 200 R 50 50 0 0 P
+X EP 3 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

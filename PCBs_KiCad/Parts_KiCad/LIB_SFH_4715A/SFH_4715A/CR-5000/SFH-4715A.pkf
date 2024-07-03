@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SFH-4715A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SFH-4715A")
+        (spec "default")
+    )
+)

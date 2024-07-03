@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'B250A_13_F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "B250A-13-F" (!) = "", "DIOM5226X230N", "Diodes Moulded", "621-B250A-F", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/B250A-13-F?qs=vCs%252BXXHcZCYwSuq4TGO9ug%3D%3D", "B250A-13-F", "https://www.arrow.com/en/products/b250a-13-f/diodes-incorporated?region=nac", "Diodes Inc B250A-13-F, SMT Schottky Diode, 50V 2A, 2-Pin DO-214AC", "https://www.diodes.com/assets/Datasheets/ds13004.pdf", "2.3 mm"
+END_PART
+
+END.

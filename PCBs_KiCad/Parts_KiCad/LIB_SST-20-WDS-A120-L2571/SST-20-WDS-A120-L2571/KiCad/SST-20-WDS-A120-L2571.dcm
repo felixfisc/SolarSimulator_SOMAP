@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SST-20-WDS-A120-L2571
+D High Power LEDs - White Daylight White LED 5700K 65 CRI
+K
+F https://download.luminus.com/datasheets/Luminus_SST-20-WxS_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

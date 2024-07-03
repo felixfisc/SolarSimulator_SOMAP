@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SST20WDSA120L2571"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SST20WDSA120L2571")
+        (spec "default")
+    )
+)

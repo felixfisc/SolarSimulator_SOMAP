@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L1HX_5070200000000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lumileds", "L1HX-5070200000000" (!) = "", "L1HX5070200000000", "Other", "997-L1HX507020", "https://www.mouser.co.uk/ProductDetail/Lumileds/L1HX-5070200000000?qs=GedFDFLaBXFEeKINQ8IUQQ%3D%3D", "", "", "High Power LEDs - White White, 5000K, 70CRI LUXEON HL2X", "https://www.mouser.com/datasheet/2/602/DS288_luxeon_hl2x_datasheet-1915899.pdf", "2.385 mm"
+END_PART
+
+END.

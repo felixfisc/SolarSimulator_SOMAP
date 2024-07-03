@@ -1,0 +1,18 @@
+.43650-0212 :1 ;Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 2 Circuits, with Solder Tab, Glow-Wire Capable, Black, Tape and Reel
+"43650-02_12_13_14_"
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 4
+*DFN 43650-0212
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (43650-0212)
+~!Mouser Part Number (538-43650-0212)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/43650-0212?qs=zi95yC3thwGsNF9etovFgw%3D%3D)
+~!Arrow Part Number (43650-0212)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/43650-0212/molex)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/436500212_sd.pdf)
+~!Height (5.57mm)
+~!3D_Model (43650-0212)
+"43650-0212"
+1.1!U 2.1!U 

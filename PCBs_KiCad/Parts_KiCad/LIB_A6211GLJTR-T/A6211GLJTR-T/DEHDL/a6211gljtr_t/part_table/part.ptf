@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'A6211GLJTR_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "A6211GLJTR-T" (!) = "", "SOIC127P600X170-9N", "Small Outline Packages", "250-A6211GLJTR-T", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A6211GLJTR-T?qs=pUKx8fyJudB6ktKC8t53Sg%3D%3D", "A6211GLJTR-T", "https://www.arrow.com/en/products/a6211gljtr-t/allegro-microsystems", "Led Driver 2A Buck", "https://www.allegromicro.com/~/media/Files/Datasheets/A6211-Datasheet.ashx", "1.7 mm"
+END_PART
+
+END.

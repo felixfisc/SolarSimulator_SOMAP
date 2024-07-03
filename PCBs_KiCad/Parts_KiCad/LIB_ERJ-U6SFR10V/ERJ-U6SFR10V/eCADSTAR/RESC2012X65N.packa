@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERJ-U6SFR10V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-11-04:15:41)
+    (mountForm default
+        (footprintRef "RESC2012X65N")
+        (spec "System")
+    )
+)

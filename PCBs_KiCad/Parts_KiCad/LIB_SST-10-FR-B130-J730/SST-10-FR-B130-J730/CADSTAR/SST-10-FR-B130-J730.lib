@@ -1,0 +1,18 @@
+.SST-10-FR-B130-J730 :1 ;High Power LEDs - Single Color 730nm FAR RED 1mm 130 degree lens
+SST10FRB130J730
+*STM LED
+*NGS
+*PLB 1="K" 2="A" 3="EP"
+*MXP 3
+*DFN SST-10-FR-B130-J730
+~!Manufacturer_Name (Luminus Devices Inc.)
+~!Manufacturer_Part_Number (SST-10-FR-B130-J730)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://download.luminus.com/datasheets/Luminus_SST-10-FR_Datasheet.pdf)
+~!Height (2.03mm)
+~!3D_Model (SST-10-FR-B130-J730)
+SST-10-FR-B130-J730
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-U6SFR10V
+D Thick Film Resistors - SMD 0805 0.25W 1% .10ohms AEC-Q200
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+#End Doc Library

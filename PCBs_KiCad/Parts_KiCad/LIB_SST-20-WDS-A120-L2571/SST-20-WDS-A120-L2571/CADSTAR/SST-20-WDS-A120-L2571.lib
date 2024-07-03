@@ -1,0 +1,18 @@
+.SST-20-WDS-A120-L2571 :1 ;High Power LEDs - White Daylight White LED 5700K 65 CRI
+SST20WDSA120L2571
+*STM LED
+*NGS
+*PLB 1="K" 2="A" 3="EP"
+*MXP 3
+*DFN SST-20-WDS-A120-L2571
+~!Manufacturer_Name (Luminus Devices Inc.)
+~!Manufacturer_Part_Number (SST-20-WDS-A120-L2571)
+~!Mouser Part Number (896-20WDSA120L2571)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Luminus-Devices/SST-20-WDS-A120-L2571?qs=byeeYqUIh0ONPztS2sD8ag%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://download.luminus.com/datasheets/Luminus_SST-20-WxS_Datasheet.pdf)
+~!Height (2.11mm)
+~!3D_Model (SST-20-WDS-A120-L2571)
+SST-20-WDS-A120-L2571
+1.1!U 2.1!U 3.1!U 

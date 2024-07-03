@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SST_20_WDS_A120_L2571'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Luminus Devices Inc.", "SST-20-WDS-A120-L2571" (!) = "", "SST20WDSA120L2571", "Other", "896-20WDSA120L2571", "https://www.mouser.co.uk/ProductDetail/Luminus-Devices/SST-20-WDS-A120-L2571?qs=byeeYqUIh0ONPztS2sD8ag%3D%3D", "", "", "High Power LEDs - White Daylight White LED 5700K 65 CRI", "https://download.luminus.com/datasheets/Luminus_SST-20-WxS_Datasheet.pdf", "2.11 mm"
+END_PART
+
+END.

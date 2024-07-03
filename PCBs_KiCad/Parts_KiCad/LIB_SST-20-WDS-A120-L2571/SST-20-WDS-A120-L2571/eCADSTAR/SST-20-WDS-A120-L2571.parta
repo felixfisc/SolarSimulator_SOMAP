@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_5898565"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-02-11-04:36:54)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "SST-20-WDS-A120-L2571")
+)
+
+
+(pinAssign "ECS_5898565"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-02-11-04:36:54)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "EP") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_5898565")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SST-20-WDS-A120-L2571")
+)
+
+
+(part "SST-20-WDS-A120-L2571"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-02-11-04:36:54)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SST-20-WDS-A120-L2571")
+    (pinAssignRef "ECS_5898565")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "EP") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "High Power LEDs - White Daylight White LED 5700K 65 CRI")
+    (property "Manufacturer_Name" "Luminus Devices Inc.")
+    (property "Manufacturer_Part_Number" "SST-20-WDS-A120-L2571")
+    (property "Mouser_Part_Number" "896-20WDSA120L2571")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Luminus-Devices/SST-20-WDS-A120-L2571?qs=byeeYqUIh0ONPztS2sD8ag%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://download.luminus.com/datasheets/Luminus_SST-20-WxS_Datasheet.pdf")
+    (property "compAreaTopHeight" 2.11)
+)
+
+

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERJ_U6SFR10V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERJ-U6SFR10V" (!) = "", "RESC2012X65N", "Resistor Chip", "667-ERJ-U6SFR10V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-U6SFR10V?qs=5aG0NVq1C4yf0cMjBzyp%2Fw%3D%3D", "ERJ-U6SFR10V", "https://www.arrow.com/en/products/erj-u6sfr10v/panasonic?region=nac", "Thick Film Resistors - SMD 0805 0.25W 1% .10ohms AEC-Q200", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf", "0.65 mm"
+END_PART
+
+END.

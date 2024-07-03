@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRR1210-680M
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2017-12-15 17:16:45
+Downloaded=2023-11-06 16:06:09
+3D=Y

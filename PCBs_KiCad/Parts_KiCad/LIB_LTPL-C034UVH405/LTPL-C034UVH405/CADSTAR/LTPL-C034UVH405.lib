@@ -1,0 +1,18 @@
+.LTPL-C034UVH405 :1 ;Ultraviolet (UV) Emitter 405nm 3.7V 700mA 130 2-SMD, No Lead Exposed Pad
+LTPLC034UVH405
+*STM LED
+*NGS
+*PLB 1="K" 2="A" 3="EP"
+*MXP 3
+*DFN LTPL-C034UVH405
+~!Manufacturer_Name (Lite-On)
+~!Manufacturer_Part_Number (LTPL-C034UVH405)
+~!Mouser Part Number (859-LTPL-C034UVH405)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lite-On/LTPL-C034UVH405?qs=rrS6PyfT74dhK6mT7j3K8A%3D%3D)
+~!Arrow Part Number (LTPL-C034UVH405)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ltpl-c034uvh405/lite-on-technology?region=nac)
+~!Link Datasheet (https://optoelectronics.liteon.com/upload/download/DS23-2015-0073/LTPL-C034UVH405%20DataSheet.PDF)
+~!Height (2.33mm)
+~!3D_Model (LTPL-C034UVH405)
+LTPL-C034UVH405
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=43650-1021
+PartCategory=Connector
+PackageCategory=Other
+PinCount=12
+Version=3.1
+Released=2021-12-23 12:04:20
+Downloaded=2023-11-09 09:06:33
+3D=Y

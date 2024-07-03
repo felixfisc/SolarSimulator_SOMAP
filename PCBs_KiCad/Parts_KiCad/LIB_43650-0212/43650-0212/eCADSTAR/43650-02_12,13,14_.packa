@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "43650-0212"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-06-29-14:55:14)
+    (mountForm default
+        (footprintRef "43650-02_12_13_14_")
+        (spec "System")
+    )
+)

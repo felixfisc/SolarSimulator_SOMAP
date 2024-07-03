@@ -1,0 +1,175 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "436501009"
+   (description "Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 10 Circuits, with PCB Press-fit Metal Retention Clip, Glow-Wire Capable, Black, Tape and Reel")
+   (family "CON")
+   (package "4365010YY_091011")
+   (attribute "Datasheet Link" "https://www.molex.com/pdm_docs/sd/436500209_sd.pdf")
+   (attribute "Geometry.Height" "5.57mm")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "436501009")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "436501009")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+    (pin "10" 10 PS)
+   )
+  )
+  (symbol "436501009"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -1000) (pt 200 -1000) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -900) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -800) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "4365010YY_091011"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt -16.83 0.15)
+      (pt 16.83 0.15)
+      (pt 16.83 -9.75)
+      (pt -16.83 -9.75)
+      (pt -16.83 0.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt 16.83 -9.75)
+      (pt -16.83 -9.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 16 1.5)
+      (pt 16 0.5)
+      (pt 15 1)
+      (pt 16 1.5))))
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 16 1.5)
+      (pt 16 0.5)
+      (pt 15 1)
+      (pt 16 1.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -18.1 2.6792)
+      (pt 18.1 2.6792)
+      (pt 18.1 -11.02)
+      (pt -18.1 -11.02)
+      (pt -18.1 2.6792))))
+   (leg 1 (pt 13.5 0) (padstack 0))
+   (leg 2 (pt 10.5 0) (padstack 0))
+   (leg 3 (pt 7.5 0) (padstack 0))
+   (leg 4 (pt 4.5 0) (padstack 0))
+   (leg 5 (pt 1.5 0) (padstack 0))
+   (leg 6 (pt -1.5 0) (padstack 0))
+   (leg 7 (pt -4.5 0) (padstack 0))
+   (leg 8 (pt -7.5 0) (padstack 0))
+   (leg 9 (pt -10.5 0) (padstack 0))
+   (leg 10 (pt -13.5 0) (padstack 0))
+   (leg 11 (pt 15.65 -5.47) (padstack 11))
+   (leg 12 (pt -15.65 -5.47) (padstack 12))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.27 2.92 0 0 90))
+   )
+   (padstack 11
+    (hole 2.41)
+    (plated false)
+    (pad (layer TCOP) (round 2.41))
+    (pad (layer INNER) (round 2.41))
+    (pad (layer BCOP) (round 2.41))
+   )
+   (padstack 12
+    (hole 2.41)
+    (plated false)
+    (pad (layer TCOP) (round 2.41))
+    (pad (layer INNER) (round 2.41))
+    (pad (layer BCOP) (round 2.41))
+   )
+   (model "436501009.stp"
+    (euler 0 0 0)
+    (offset 0 -9.520000457763672 0.25999999046325684)
+   )
+  )
+ )
+)

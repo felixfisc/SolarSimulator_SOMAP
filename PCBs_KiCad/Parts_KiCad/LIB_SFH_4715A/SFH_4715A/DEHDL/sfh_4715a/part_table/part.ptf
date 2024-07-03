@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SFH_4715A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "OSRAM", "SFH 4715A" (!) = "", "SFH-4715A", "Other", "720-SFH4715A", "https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4715A?qs=l%252B8wwRgLLS51XljZ5Pzqhw%3D%3D", "SFH 4715A", "https://www.arrow.com/en/products/sfh4715a/osram-opto-semiconductors?region=nac", "Osram Opto SFH 4715A OSLON Black IR LED, 860nm, SMD package", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036946.pdf"
+END_PART
+
+END.

@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SST-10-FR-B130-J730"
+   (description "High Power LEDs - Single Color 730nm FAR RED 1mm 130 degree lens")
+   (family "DIO")
+   (package "SST10FRB130J730")
+   (attribute "Datasheet Link" "https://download.luminus.com/datasheets/Luminus_SST-10-FR_Datasheet.pdf")
+   (attribute "Geometry.Height" "2.03mm")
+   (attribute "Manufacturer_Name" "Luminus Devices Inc.")
+   (attribute "Manufacturer_Part_Number" "SST-10-FR-B130-J730")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "SST-10-FR-B130-J730")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+    (pin "EP" 3 PS)
+   )
+  )
+  (symbol "SST-10-FR-B130-J730"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SST10FRB130J730"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.725 -1.725)
+      (pt 1.725 -1.725)
+      (pt 1.725 1.725)
+      (pt -1.725 1.725)
+      (pt -1.725 -1.725))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.725 1.725)
+      (pt 1.725 1.725)
+      (pt 1.725 -1.725)
+      (pt -1.725 -1.725)
+      (pt -1.725 1.725))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.725 2.725)
+      (pt 2.725 2.725)
+      (pt 2.725 -2.725)
+      (pt -2.725 -2.725)
+      (pt -2.725 2.725))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 2.3)
+      (arc (pt 0.000 2.300) (pt -0.050 2.200) (pt 0.050 2.300) (start 180.0) (sweep 90.0))
+      (pt 0 2.2)
+      (arc (pt 0.000 2.200) (pt -0.050 2.200) (pt 0.050 2.300) (start 180.0) (sweep -90.0))
+      (pt 0 2.3))))
+   (leg 1 (pt 0.000 1.100) (padstack 0))
+   (leg 2 (pt 0.000 -1.100) (padstack 0))
+   (leg 3 (pt 0.000 0.000) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.500 2.700 0 0 0.000))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 2.700 0 0 0.000))
+   )
+   (model "SST-10-FR-B130-J730.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

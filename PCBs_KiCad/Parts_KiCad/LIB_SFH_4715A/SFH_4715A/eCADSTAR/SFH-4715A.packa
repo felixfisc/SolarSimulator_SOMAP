@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SFH_4715A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-13-18:34:23)
+    (mountForm default
+        (footprintRef "SFH-4715A")
+        (spec "System")
+    )
+)

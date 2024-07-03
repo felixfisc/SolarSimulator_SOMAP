@@ -1,0 +1,11 @@
+10-16-1 : 35 ms 24mm main maximum of halogen lamp with nd 780 calibrated with new LP780calibration file
+10-19-16 : 35 ms 24mm side maximum of halogen lamp with nd 780 calibrated with new LP780calibration file
+10-26-39 : 35 ms 24mm main maximum of halogen lamp with nd 780 calibrated with new LP780calibration file
+10-28-47 : 35 ms 24mm side maximum of halogen lamp with nd 780 calibrated with new LP780calibration file
+10-42-57 : main max halogen with PR665 + ND 
+10-43-30 : main max halogen with PR665 + ND 
+10-47-27 : side max halogen with PR665 + ND 
+10-47-51 : side max halogen with PR665 + ND 
+
+thor_to_PR665 main maximum factor: 0.25
+thor_to_PR665 main maximum factor: 0.45

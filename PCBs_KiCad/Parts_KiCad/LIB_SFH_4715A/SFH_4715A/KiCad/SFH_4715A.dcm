@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFH_4715A
+D Osram Opto SFH 4715A OSLON Black IR LED, 860nm, SMD package
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036946.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SST-10-FR-B130-J730
+D High Power LEDs - Single Color 730nm FAR RED 1mm 130 degree lens
+K
+F https://download.luminus.com/datasheets/Luminus_SST-10-FR_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

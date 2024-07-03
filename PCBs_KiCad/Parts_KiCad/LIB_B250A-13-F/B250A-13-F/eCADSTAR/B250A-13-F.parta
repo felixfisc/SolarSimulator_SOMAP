@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_440631"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-10-16:21:51)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "B250A-13-F")
+)
+
+
+(pinAssign "ECS_440631"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-10-16:21:51)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_440631")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "B250A-13-F")
+)
+
+
+(part "B250A-13-F"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-10-16:21:51)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "B250A-13-F")
+    (pinAssignRef "ECS_440631")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Diodes Inc B250A-13-F, SMT Schottky Diode, 50V 2A, 2-Pin DO-214AC")
+    (property "Manufacturer_Name" "Diodes Inc.")
+    (property "Manufacturer_Part_Number" "B250A-13-F")
+    (property "Mouser_Part_Number" "621-B250A-F")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/B250A-13-F?qs=vCs%252BXXHcZCYwSuq4TGO9ug%3D%3D")
+    (property "Arrow_Part_Number" "B250A-13-F")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/b250a-13-f/diodes-incorporated?region=nac")
+    (property "Datasheet_Link" "https://www.diodes.com/assets/Datasheets/ds13004.pdf")
+    (property "compAreaTopHeight" 2.3)
+)
+
+

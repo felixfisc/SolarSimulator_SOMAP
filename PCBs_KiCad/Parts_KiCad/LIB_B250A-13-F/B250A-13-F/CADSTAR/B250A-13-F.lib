@@ -1,0 +1,18 @@
+.B250A-13-F :1 ;Diodes Inc B250A-13-F, SMT Schottky Diode, 50V 2A, 2-Pin DO-214AC
+DIOM5226X230N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN B250A-13-F
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (B250A-13-F)
+~!Mouser Part Number (621-B250A-F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/B250A-13-F?qs=vCs%252BXXHcZCYwSuq4TGO9ug%3D%3D)
+~!Arrow Part Number (B250A-13-F)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/b250a-13-f/diodes-incorporated?region=nac)
+~!Link Datasheet (https://www.diodes.com/assets/Datasheets/ds13004.pdf)
+~!Height (2.3mm)
+~!3D_Model (B250A-13-F)
+B250A-13-F
+1.1!U 2.1!U 

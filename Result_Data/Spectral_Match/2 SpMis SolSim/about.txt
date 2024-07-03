@@ -1,0 +1,14 @@
+Measurement with closed lid, bottom and top fresnel lense, with diffusor plate, no top class
+Thor 300ms, both with ND filter
+  I_UV = 80.0; // percent
+  I_White = 40.0;
+  I_Green = 30.0;
+  I_Red = 100.0;
+  I_IR = 50.0; // infrared limit is 50%
+
+144points - 10x10 cm^2 - 2 cm steps
+665 height = 20 mm
+thor height = 21 mm
+see pictures
+
++ 2 single point, also measured the wavelength intensity curve, already adjusted with thor_to_PR665_factor = 0.089 for thor @300ms

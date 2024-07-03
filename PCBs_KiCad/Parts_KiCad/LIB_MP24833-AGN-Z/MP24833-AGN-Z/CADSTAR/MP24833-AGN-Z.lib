@@ -1,0 +1,18 @@
+.MP24833-AGN-Z :1 ;LED Lighting Drivers 3A 200kHz Internal Power MOSFET
+SOIC127P600X170-9N
+*STM IC
+*NGS
+*PLB 1="VDD" 2="VSS_1" 3="OVP" 4="FB" 5="EN/DIM" 6="INGND" 7="BST" 8="SW" 9="VSS_2"
+*MXP 9
+*DFN MP24833-AGN-Z
+~!Manufacturer_Name (Monolithic Power Systems (MPS))
+~!Manufacturer_Part_Number (MP24833-AGN-Z)
+~!Mouser Part Number (946-MP24833-AGN-Z)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP24833-AGN-Z?qs=cslStgdnz9M1gG6C9BalrA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.monolithicpower.com/pub/media/document/MP24833-A_r1.01.pdf)
+~!Height (1.7mm)
+~!3D_Model (MP24833-AGN-Z)
+MP24833-AGN-Z
+1.1!P 2.1!G 3.1!I 4.1!I 9.1!G 8.1!Y 7.1!U 6.1!G 5.1!I 

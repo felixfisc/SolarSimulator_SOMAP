@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTPL_C034UVH405'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lite-On", "LTPL-C034UVH405" (!) = "", "LTPLC034UVH405", "Other", "859-LTPL-C034UVH405", "https://www.mouser.co.uk/ProductDetail/Lite-On/LTPL-C034UVH405?qs=rrS6PyfT74dhK6mT7j3K8A%3D%3D", "LTPL-C034UVH405", "https://www.arrow.com/en/products/ltpl-c034uvh405/lite-on-technology?region=nac", "Ultraviolet (UV) Emitter 405nm 3.7V 700mA 130 2-SMD, No Lead Exposed Pad", "https://optoelectronics.liteon.com/upload/download/DS23-2015-0073/LTPL-C034UVH405%20DataSheet.PDF", "2.33 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SST_10_FR_B130_J730'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Luminus Devices Inc.", "SST-10-FR-B130-J730" (!) = "", "SST10FRB130J730", "Other", "", "", "", "", "High Power LEDs - Single Color 730nm FAR RED 1mm 130 degree lens", "https://download.luminus.com/datasheets/Luminus_SST-10-FR_Datasheet.pdf", "2.03 mm"
+END_PART
+
+END.

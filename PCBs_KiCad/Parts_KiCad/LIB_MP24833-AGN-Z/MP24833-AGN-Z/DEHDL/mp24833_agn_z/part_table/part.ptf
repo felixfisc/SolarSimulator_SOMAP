@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MP24833_AGN_Z'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Monolithic Power Systems (MPS)", "MP24833-AGN-Z" (!) = "", "SOIC127P600X170-9N", "Small Outline Packages", "946-MP24833-AGN-Z", "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP24833-AGN-Z?qs=cslStgdnz9M1gG6C9BalrA%3D%3D", "", "", "LED Lighting Drivers 3A 200kHz Internal Power MOSFET", "https://www.monolithicpower.com/pub/media/document/MP24833-A_r1.01.pdf", "1.7 mm"
+END_PART
+
+END.

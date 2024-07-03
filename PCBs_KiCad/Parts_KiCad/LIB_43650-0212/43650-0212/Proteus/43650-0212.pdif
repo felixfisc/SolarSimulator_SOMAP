@@ -1,0 +1,121 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "43650-0212"
+   (description "Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 2 Circuits, with Solder Tab, Glow-Wire Capable, Black, Tape and Reel")
+   (family "CON")
+   (package "43650-02(12,13,14)")
+   (attribute "Datasheet Link" "https://www.molex.com/pdm_docs/sd/436500212_sd.pdf")
+   (attribute "Geometry.Height" "5.57mm")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "43650-0212")
+   (attribute "Mouser Part Number" "538-43650-0212")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/43650-0212?qs=zi95yC3thwGsNF9etovFgw%3D%3D")
+   (attribute "Arrow Part Number" "43650-0212")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/43650-0212/molex")
+   (gate
+    (symbol "43650-0212")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "43650-0212"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -100) (pt 200 -100) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "43650-02(12,13,14)"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt -4.825 0.15)
+      (pt 4.825 0.15)
+      (pt 4.825 -9.75)
+      (pt -4.825 -9.75)
+      (pt -4.825 0.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt 4.825 -9.75)
+      (pt -4.825 -9.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 6.5 0.5)
+      (pt 6.5 -0.5)
+      (pt 5.5 0)
+      (pt 6.5 0.5))))
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 6.5 0.5)
+      (pt 6.5 -0.5)
+      (pt 5.5 0)
+      (pt 6.5 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -8.3192 2.6792)
+      (pt 8.3192 2.6792)
+      (pt 8.3192 -11.02)
+      (pt -8.3192 -11.02)
+      (pt -8.3192 2.6792))))
+   (leg 1 (pt 1.5 0) (padstack 0))
+   (leg 2 (pt -1.5 0) (padstack 0))
+   (leg 3 (pt 5.385 -5.47) (padstack 3))
+   (leg 4 (pt -5.385 -5.47) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.27 2.92 0 0 90))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 1.65 3.43 0 0 0))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 1.65 3.43 0 0 0))
+   )
+   (model "43650-0212.stp"
+    (euler 90 0 0)
+    (offset 0.05999999865889549 -5.110000133514404 2.509999990463257)
+   )
+  )
+ )
+)

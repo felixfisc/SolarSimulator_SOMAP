@@ -1,0 +1,18 @@
+.L1HX-5070200000000 :1 ;High Power LEDs - White White, 5000K, 70CRI LUXEON HL2X
+L1HX5070200000000
+*STM LED
+*NGS
+*PLB 1="K" 2="A" 3="EP"
+*MXP 3
+*DFN L1HX-5070200000000
+~!Manufacturer_Name (Lumileds)
+~!Manufacturer_Part_Number (L1HX-5070200000000)
+~!Mouser Part Number (997-L1HX507020)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lumileds/L1HX-5070200000000?qs=GedFDFLaBXFEeKINQ8IUQQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/602/DS288_luxeon_hl2x_datasheet-1915899.pdf)
+~!Height (2.385mm)
+~!3D_Model (L1HX-5070200000000)
+L1HX-5070200000000
+1.1!U 2.1!U 3.1!U 

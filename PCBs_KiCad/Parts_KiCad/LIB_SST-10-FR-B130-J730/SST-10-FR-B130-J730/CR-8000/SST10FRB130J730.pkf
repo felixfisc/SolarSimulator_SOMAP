@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SST10FRB130J730"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SST10FRB130J730")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Lumileds
+PartNumber=L1HX-5070200000000
+PartCategory=LED
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2021-03-15 09:56:35
+Downloaded=2023-11-02 11:45:56
+3D=Y
